@@ -1,0 +1,20 @@
+--------------------------------- 
+GPU (Tiling) Benchmarking details 
+--------------------------------- 
+Time for GPU memory allocation (seconds): 0.000228352
+
+Time for input data transfer (seconds): 0.00281376
+
+Time for filter data transfer (seconds): 0.000176448
+
+Time for kernel execution (seconds): 5.75078e-05
+
+Time for output data transfer (seconds): 0.00611462
+
+Time (total): 0.00939069
+FPS (total): 106.488
+
+Time (kernel): 5.75078e-05
+FPS (kernel): 17388.9
+GFLOPS (kernel): 1312.82
+---------------------------------
